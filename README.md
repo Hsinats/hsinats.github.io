@@ -16,7 +16,7 @@ I created a mobile application that lets users create custom options trading str
 
 I created a mobile app that detects cars, trucks, and buses and alerts users as a vehicle approaches. This is done through the use of pre-trained object detection algorithms (YOLO-v2 tiny and Mobilenet SSD) and a custom alert algorithm. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dW_eRqeGQ3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/dW_eRqeGQ3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Data
 
