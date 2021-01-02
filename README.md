@@ -15,12 +15,16 @@ I created a mobile application that lets users create custom options trading str
 
 ### Car Detector
 
-I created a mobile app that detects cars, trucks, and buses and alerts users as a vehicle approaches. This is done through the use of pre-trained object detection algorithms and a custom alert algorithm. 
+I created a mobile app that detects cars, trucks, and buses and alerts users as a vehicle approaches. This is done through the use of pre-trained object detection algorithms (YOLO-v2 tiny and Mobilenet SSD) and a custom alert algorithm. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dW_eRqeGQ3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Data
-<div class='tableauPlaceholder' id='viz1609606437402' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NF&#47;NFLExploitability&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NFLExploitability&#47;Dashboard' /><param name='tabs' value='yes' /><param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NF&#47;NFLExploitability&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1609606437402');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.minWidth='850px';vizElement.style.maxWidth='1350px';vizElement.style.width='100%';vizElement.style.minHeight='583px';vizElement.style.maxHeight='1923px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+There is an idea in football that if you know play the opposing team is probably going to call you can better defend against it. I wondered how loarge this effect is so I created a lagistic regression, linear regression, and XBBoost model trained on play-by-play data from previous NFL season (any desired seaosn between 1999 and 2019) to form a "classic football playcalling model". XGBoost gave the highest accuracy so I used XGBoost to predict the playcalling in the 2020 NFL season. This model had an accuracy of 75.6% dedending on the week, which is in line with published models in accademic papers.
+
+Since XGBoost is commonly used in 
+
 
 #
 
