@@ -1,7 +1,6 @@
 # About Me
 
-I am PhD chemist and nanotechnologist that brings the scientific method to all areas of my life.
-
+I am PhD chemist and nanotechnologist that brings my love of data and the scientific method to all areas of my life.
 
 # Interests
 
@@ -25,8 +24,12 @@ There is an idea in football that if you know play the opposing team is probably
 
 Since XGBoost is commonly used in 
 
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes"></iframe>
 
-#
+
+# My tools
+
+
 
 
 ```markdown
