@@ -42,7 +42,7 @@ Since XGBoost is commonly used in
 
 I love all animals, and have volunteered at Karuna Lane Sanctuary and Farm Stay for the past 3 years.
 
-![](https://photos.google.com/photo/AF1QipN4NB6CcQCzE6aUy5KT-56F6Ng2IPxEqgxJDUmQ)
+![](https://photos.app.goo.gl/bgQhYWKzUQnDsSAt8)
 
 
 
