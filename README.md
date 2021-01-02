@@ -4,13 +4,13 @@ You can use the [editor on GitHub](https://github.com/Hsinats/hsinats.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Projects
+## Projects
 
-## Options Dashboard and Calculator
+### Options Dashboard and Calculator
 
-I created 
+I created a mobile application that lets users create custom options trading strategies with up to 5 legs (including stocks). Users are shown payoff curves for both now and at expiry. Users can also customize the date, implied volatility, and stock price, allowing them to explore the outcomes of potential earnings events, dividends, or breaking news stories on their investments. Finally, the app breaks down the effects of time and volatility on the user’s strategy and gives risk management insights. This was created in Flutter.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a_CkPDlQ6yg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_CkPDlQ6yg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://youtu.be/dW_eRqeGQ3w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
