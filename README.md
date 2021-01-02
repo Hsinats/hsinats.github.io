@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/Hsinats/hsinats.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am PhD chemist that brings the scientific method to all areas of my life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Projects
+# Interests
+
+## Technlogy and Data
 
 ### Options Dashboard and Calculator
 
@@ -12,9 +13,17 @@ I created a mobile application that lets users create custom options trading str
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a_CkPDlQ6yg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://youtu.be/dW_eRqeGQ3w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Car Detector
+
+I created a mobile app that detects cars, trucks, and buses and alerts users as a vehicle approaches. This is done through the use of pre-trained object detection algorithms and a custom alert algorithm. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dW_eRqeGQ3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Data
+<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes"></iframe>
 
 
+#
 
 
 ```markdown
