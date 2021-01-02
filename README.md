@@ -24,6 +24,9 @@ There is an idea in football that if you know play the opposing team is probably
 
 Since XGBoost is commonly used in 
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/profile/paul.c.stanish#!/vizhome/NFLExploitability/Dashboard?publish=yes" width = '650' height = '450'></iframe> 
+
+
 <iframe src="https://public.tableau.com/profile/paul.c.stanish#!/vizhome/NFLExploitability/Dashboard?publish=yes"></iframe>
 
 
