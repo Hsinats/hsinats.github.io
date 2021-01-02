@@ -36,8 +36,9 @@ Since XGBoost is commonly used in
 # My tools
 
 ![Flutter](https://icon-icons.com/icons2/2108/PNG/128/flutter_icon_130936.png)
+![](https://styles.redditmedia.com/t5_2sut9/styles/communityIcon_f1uukpexwpj11.jpg?width=256&format=pjpg&s=3ebcd69ec004713769ec689105e25ec3e1e6fd29)
 ![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png)
-
+![](https://d2.alternativeto.net/dist/icons/tableau-prep_131339.jpg?width=64&height=64&mode=crop&upscale=false)
 
 
 
