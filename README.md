@@ -1,6 +1,6 @@
 # About Me
 
-I am PhD chemist that brings the scientific method to all areas of my life.
+I am PhD chemist and nanotechnologist that brings the scientific method to all areas of my life.
 
 
 # Interests
