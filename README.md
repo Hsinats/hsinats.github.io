@@ -32,6 +32,19 @@ Since XGBoost is commonly used in
 
 <div class='tableauPlaceholder' id='viz1609613359994' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NF&#47;NFLExploitability&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NFLExploitability&#47;Dashboard' /><param name='tabs' value='yes' /><param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NF&#47;NFLExploitability&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>
 
+## Science
+
+### 
+
+## Personal
+
+### Animals
+
+I love all animals, and have volunteered at Karuna Lane Sanctuary and Farm Stay for the past 3 years.
+
+![](https://photos.google.com/photo/AF1QipN4NB6CcQCzE6aUy5KT-56F6Ng2IPxEqgxJDUmQ)
+
+
 
 # My tools
 
@@ -40,33 +53,3 @@ Since XGBoost is commonly used in
 ![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png)
 ![](https://d2.alternativeto.net/dist/icons/tableau-prep_131339.jpg?width=64&height=64&mode=crop&upscale=false)
 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hsinats/hsinats.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
