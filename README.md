@@ -45,6 +45,15 @@ I love all animals, and have volunteered at Karuna Lane Sanctuary and Farm Stay 
 ![](https://photos.app.goo.gl/bgQhYWKzUQnDsSAt8)
 
 
+# Contact me
+
+### Email
+
+paul.stanish@gmail.com
+
+### Phone
+
+(613) 883-7285
 
 # My tools
 
