@@ -28,10 +28,12 @@ Since XGBoost is a commonly used algorithm in data science, I assumed that the a
 
 <a href='https://public.tableau.com/profile/paul.c.stanish#!/vizhome/NFLExploitability/Dashboard?publish=yes'>A dashboard from week 1 - 11 of the 2020 NFL season can be found here.</a> I added an analysis of killing the clock and updated the 
 
-## Exoerimental Uncertainty Calculator
+## Experimental Uncertainty Calculator
 
 Uncertainty calculations are incredibly important in the physical sciences because all measurements are subject to some uncertainty. Unfortunately, many labs choose not to do uncertainty calculations because they can be incredibly arduous and hurt the scientist's ability to credibility make inferences from their data. For that reason, I made an uncertainty calculator to at least combat the monotony of these calculations.
 
-The calculator was orginally built in <a href='https://uncertainly.pythonanywhere.com/'>Python using Django</a>, but I have since updated it to work on Android in Flutter (currently in review by the play store).
+The calculator was originally built in <a href='https://uncertainly.pythonanywhere.com/'>Python using Django</a>, but I have since updated it to work on Android in Flutter (currently in review by the play store).
+
+
 
 
