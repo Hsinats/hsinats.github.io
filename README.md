@@ -26,10 +26,10 @@ There is an idea in football that if you know play the opposing team is probably
 
 Since XGBoost is a commonly used algorithm in data science, I assumed that the analytics departments of NFL teams were likely to predict the plays that I predicted. From here, i examined the correlation between my model's accuracy and the outcome of plays and found that.
 
-<a href='https://public.tableau.com/profile/paul.c.stanish#!/vizhome/NFLExploitability/Dashboard?publish=yes'>A dashboard for the completed NFL season can be found here.</a>
+<a href='https://public.tableau.com/profile/paul.c.stanish#!/vizhome/NFLExploitability/Dashboard?publish=yes'>A dashboard from week 1 - 11 of the 2020 NFL season can be found here.</a> I added an analysis of killing the clock and updated the 
 
 ## Exoerimental Uncertainty Calculator
 
 Uncertainty calculations are incredibly important in the physical science because all measurements are subject to some uncertainty. Unfortunately many labs choose not to do uncertainty calculations because they can be incredibly arduous and hurt the scientist's ability to credibily make inferences from their data. For that reason, I made an uncertainty calculator to at least combat the monotiny of these calculations.
 
-The calculator was orginally built in Python using Django, but I have since updated it to work on Android in Flutter.
+The calculator was orginally built in <a href='https://uncertainly.pythonanywhere.com/'>Python using Django</a>, but I have since updated it to work on Android in Flutter (currently in rewview by the play store).
