@@ -33,3 +33,15 @@ Since XGBoost is a commonly used algorithm in data science, I assumed that the a
 Uncertainty calculations are incredibly important in the physical sciences because all measurements are subject to some uncertainty. Unfortunately, many labs choose not to do uncertainty calculations because they can be incredibly arduous and hurt the scientist's ability to credibility make inferences from their data. For that reason, I made an uncertainty calculator to at least combat the monotony of these calculations.
 
 The calculator was originally built in <a href='https://uncertainly.pythonanywhere.com/'>Python using Django</a>, but I have since updated it to work on Android in Flutter (currently in review by the play store).
+
+
+# Public Speaking
+
+## <a href='https://www.youtube.com/watch?v=259vkLIMebw'>How the light we see affects our lives</a>
+
+I was invited to give a talk at <a href='https://kw.nerdnite.com/'>Nerd Nite Kitchener</a> on a topic of popular appeal.
+
+## <a href='https://www.youtube.com/watch?v=alIQtj5bGlM&feature=emb_title'>Single Chromophore White Light</a>
+
+I was invited to give a scientific talk at the Waterloo Undergraduate Nanotechnology Conference by a student organizer that I had taught.
+
