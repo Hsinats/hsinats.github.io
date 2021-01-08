@@ -2,7 +2,7 @@
 
 ## Options Dashboard and Calculator
 
-I created a mobile application for Android that a standard model for fair options pricing that allows users to better plan their options trading strategies.
+I created a <a href='https://play.google.com/store/apps/details?id=com.optionsDashboard'>mobile application for Android</a> that a standard model for fair options pricing that allows users to better plan their options trading strategies.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/a_CkPDlQ6yg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
